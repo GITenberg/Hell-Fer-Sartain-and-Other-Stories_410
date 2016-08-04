@@ -1,0 +1,33 @@
+_repo: Hell-Fer-Sartain-and-Other-Stories_410
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fox, John
+    alias: Fox, John William
+    birthdate: 1863
+    deathdate: 1919
+    gutenberg_agent_id: '179'
+    url: http://www.gutenberg.org/2009/agents/179
+    wikipedia: http://en.wikipedia.org/wiki/John_Fox%2C_Jr.
+description: ''
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Social life and customs -- Fiction'
+- !lcsh 'Mountain life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Cumberland Mountains -- Fiction'
+- GITenberg
+tableOfContents: On Hell-fer-Sartain Creek -- Through the gap -- A trick o' trade
+  -- Grayson's baby -- Courtin' on Cutshin -- The message in the sand -- The senator's
+  last trade -- Preachin' on Kingdom-Come -- The passing of Abraham Shivers -- A purple
+  rhododendron.
+title: Hell Fer Sartain and Other Stories
+url: http://www.gutenberg.org/ebooks/410
